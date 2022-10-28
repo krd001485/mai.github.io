@@ -420,16 +420,7 @@ margin-right: 0;
     
    }
 
-   .footer-widgets{
-    border: 0px solid blue;
-    display: inline-block;
-    width: 320px;
-    height: 300px;
-    margin: 1em auto;
-    text-align: left;
-    overflow: auto;
-    text-transform: uppercase;
-   }
+  
 
    /*teacher's answer*/
    .footer-widgets{
